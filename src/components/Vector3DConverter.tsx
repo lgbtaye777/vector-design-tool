@@ -1,4 +1,4 @@
-import React, { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import React, { useCallback, useMemo, useState } from "react";
 import Tooltip from "./Tooltip";
 import * as THREE from "three";
 import { Canvas } from "@react-three/fiber";
