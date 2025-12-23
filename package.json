@@ -2,6 +2,7 @@
   "name": "vector-design-tool",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://lgbtaye777.github.io/vector-design-tool",
   "dependencies": {
     "@react-three/drei": "^10.7.7",
     "@react-three/fiber": "^9.4.2",
