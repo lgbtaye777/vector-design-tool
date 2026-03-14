@@ -16,7 +16,7 @@ type GeneratedVector = {
 };
 
 const INITIAL_D = "M250 140 L320 360 L180 360 Z";
-const ONBOARDING_KEY = "vdt_onboarding_seen_v1";
+const ONBOARDING_KEY = "vdt_onboarding_seen_v2";
 
 const isDomTamperRemoveChildError = (e: unknown): boolean => {
   const msg =
